@@ -1,0 +1,37 @@
+# Compiled files
+*.ex5
+*.ex4
+
+# Temporary files
+*.tmp
+*.log
+*.dat
+
+# State files (local, not for repo)
+AQG_State_*.dat
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# MQL5 storage (should not be in repo)
+MQL5/Storage/
+
+# Build artifacts
+*.bak
+*.backup
+*.cache
